@@ -60,7 +60,7 @@ body,
 }
 
 #score, #highScore {
-    font-size: 4px;
+    font-size: 34px;
     font-weight: bolder;
     margin: 10px 0;
 }
@@ -72,6 +72,7 @@ body,
 
 .snake {
     border: #5a5a5a 1px dotted;
+    background-color: aqua;
 }
 
 .food {
